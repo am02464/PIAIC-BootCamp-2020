@@ -2,7 +2,6 @@
  Repository for exercises in PIAIC Bootcamp 2020
 
  ## Day 1
- ---
  ### Topics Covered 
  1. Basics of Git
  2. Deployment using [Surge](https://surge.sh/)
